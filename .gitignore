@@ -1,0 +1,5 @@
+models/
+faiss_cache/
+.env
+_pycache_/
+*.pyc
