@@ -1,3 +1,6 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torch
 langchian
 faiss-cpu
 tiktoken
@@ -12,5 +15,4 @@ langchain-text-splitters
 transformers
 langchain-core
 faiss-cpu
-torch
 llama-cpp-python
