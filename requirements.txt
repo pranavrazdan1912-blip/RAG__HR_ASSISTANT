@@ -6,7 +6,7 @@ sentence-transformers
 langchain-huggingface
 pypdf
 doc2txt
-stramlit
+streamlit
 huggingface-hub
 langchain-text-splitters
 transformers
